@@ -28,8 +28,8 @@ Plot the images using plt.imshow().
  
 ## Program:
 ```Python
-Developed By: Pranave B
-Register  No: 212221240040
+Developed By: Joans Jay Authers A
+Register  No: 212221240019
 ```
 
 ``` Python
@@ -76,15 +76,15 @@ plt.axis('off')
 
 ### Display the input Image
 
-![](i1.png)
+![](1.png)
 
 ### Display the Eroded Image
 
-![](i2.png)
+![](2.png)
 
 ### Display the Dilated Image
 
-![](i3.png)
+![](3.png)
 
 ## Result
 Thus the generated text image is eroded and dilated using python and OpenCV.
